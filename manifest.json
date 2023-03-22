@@ -1,0 +1,22 @@
+{
+    "name": "Joke Generator",
+    "version": "1.0",
+    "description": "Generate jokes using the JokeAPI",
+    "action": {
+      "default_icon": "icon16.png",
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "host_permissions": [
+      "<all_urls>"
+    ],
+    "permissions": [
+      "storage"
+    ],
+    "manifest_version": 3
+  }
+  
